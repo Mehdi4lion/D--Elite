@@ -1,0 +1,30 @@
+.
+ .
+.
+ .
+.
+ .
+.
+ .
+.
+.
+.
+.
+.
+>> apt update 
+>> apt upgrade
+>> pkg install git python 
+>> cd D--Elite
+>> python D-Elite.py
+...........................
+
+1 > Enter LICENSE 
+2 > Enter Target url 
+And booooom 💥💣
+
+●●●●●●●●●●●●●●●●●●●●●●●●
+
+••• T.me/Persian_Elite
+
+●●●●●●●●●●●●●●●●●●●●●●●●
+
